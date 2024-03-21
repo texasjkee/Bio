@@ -219,19 +219,6 @@
   </tr> 
 </table>
 
-> Mobile
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr> 
-</table>
-
 > Backend
 
 <table width='100%'>
